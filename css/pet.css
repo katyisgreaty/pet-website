@@ -1,0 +1,22 @@
+body{
+  margin-left: 35px;
+}
+
+h2{
+  font-size: 50px;
+  font-weight: bold;
+  color: #2E3C2E;
+}
+
+h3{
+  font-size: 30px;
+}
+
+p{
+  color: orange;
+}
+
+img{
+  height:300px;
+  width:250px;
+}
