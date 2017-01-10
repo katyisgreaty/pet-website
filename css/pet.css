@@ -1,3 +1,17 @@
+.dark-theme {
+  background-color: #333333;
+  color: white;
+}
+
+.light-theme {
+  background-color: white;
+}
+
+
+
+
+
+
 body{
   margin-left: 35px;
 }
