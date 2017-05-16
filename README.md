@@ -1,6 +1,6 @@
 # pet-website
 
-#### By _**Katy Daviscourtand Matt Caswell,** 1.10.17_
+#### By _**Katy Daviscourt and Matt Caswell,** 1.10.17_
 
 ## Description
 
